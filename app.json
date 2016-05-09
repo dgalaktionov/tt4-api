@@ -1,0 +1,8 @@
+{
+  "name": "TT4 API",
+  "description": "A very simple REST API with Node.js app using Express 4",
+  "repository": "https://github.com/dgalaktionov/tt4-api",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
